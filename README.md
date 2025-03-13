@@ -32,10 +32,10 @@ Run the following commands in **Linux/macOS**:
 git clone https://github.com/KevinKhemra007/Sms_Tool.git
 cd Sms_Tool
 chmod +x Sms.py
-python3 Sms.py
+python3 Sms.cpython-313.pyc
 ```
 Run the following commands in Window
 ```bash
 git clone https://github.com/KevinKhemra007/Sms_Tool.git
 cd Sms_Tool
-python Sms.py
+python Sms.cpython-313.pyc
